@@ -1,0 +1,23 @@
+body {
+    background: #23272b;
+    color: #fff;
+}
+.navbar {
+    background: linear-gradient(90deg, #343a40 0%, #007bff 100%) !important;
+}
+.card, .table {
+    background: #2c3035;
+    color: #fff;
+}
+.table th {
+    background: #007bff;
+    color: #fff;
+}
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+.btn-primary:hover, .btn-primary:focus {
+    background-color: #0056b3;
+    border-color: #0056b3;
+} 
